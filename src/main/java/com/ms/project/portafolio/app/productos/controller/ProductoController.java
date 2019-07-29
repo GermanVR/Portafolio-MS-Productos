@@ -1,4 +1,4 @@
-package com.ms.project.portafolio.app.productos.controllers;
+package com.ms.project.portafolio.app.productos.controller;
 
 import java.util.List;
 import java.util.stream.Collectors;
